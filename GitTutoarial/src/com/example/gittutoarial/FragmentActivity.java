@@ -12,4 +12,5 @@ public class FragmentActivity {
 	private String gitCommitSecond = "Committing the changes directly in gitHub Second change";
 
 	//tracking changes in master branch
+	//third change in local master branch
 }
